@@ -1,0 +1,7 @@
+{
+	"path-intellisense.showHiddenFiles": true,
+	"path-intellisense.autoSlashAfterDirectory": true,
+	"path-intellisense.extensionOnImport": true,
+	"rc-beautify": {},
+	"typescript.suggest.paths": false,
+}
