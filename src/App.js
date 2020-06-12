@@ -16,8 +16,10 @@ const App = () =>
           <Route path="/knowledges" component={Knowledges} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
-          <Route component={NotFound} />
         </Switch>
+        <Route component={NotFound} />
+
+
       </Router>
     </>
   );
