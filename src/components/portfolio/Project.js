@@ -48,7 +48,7 @@ export default class componentName extends Component
 
 								<p className="text">{info}</p>
 
-								<div className="button return" onClick={this.handleExit}>Retourner sur la page</div>
+								<div className="button return" onClick={this.handleInfo}>Retourner sur la page</div>
 							</div>
 						</div>
 					)

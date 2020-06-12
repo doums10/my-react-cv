@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import { logo } from '../media/meradius.jpg';
+//import { logo } from '../media/meradius.jpg';
 
 const Navigation = () =>
 {
@@ -10,7 +10,7 @@ const Navigation = () =>
 
 			<div className="id">
 				<div className="idContent">
-					<img src={logo} alt="profil-pic" />
+					<img src={require('../media/meradius.jpg')} alt="profil-pic" />
 					<h3>Jean Scratch</h3>
 				</div>
 			</div>
