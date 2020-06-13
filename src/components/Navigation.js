@@ -53,15 +53,15 @@ const Navigation = () =>
 						<a href="https://github.com/doums10" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
 					</li>
 					<li>
-						<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
+						<a href="https://twitter.com/Msaymla" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
 					</li>
 					<li>
-						<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
+						<a href="https://codepen.io/" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
 					</li>
 				</ul>
 				<div className="signature">
-					<a href="https://www.youtube.com/channel/UCHGLV13U7YRbjrKpqfbtyYg/videos" target="_blank" rel="noopener noreferrer">
-						<p>fromScratch - 2020</p>
+					<a href="https://www.oxydev.fr/portfolio" target="_blank" rel="noopener noreferrer">
+						<p>Oxydev - 2020</p>
 					</a>
 				</div>
 			</div>

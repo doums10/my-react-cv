@@ -18,37 +18,37 @@ class contact extends Component
 						<ul>
 							<li>
 								<i className="fas fa-map-marker-alt"></i>
-								<span>Bordeaux</span>
+								<span>Montévrain</span>
 							</li>
 							<li>
 								<i className="fas fa-mobile-alt"></i>
 								<CopyToClipboard text="0642844284">
-									<span className="clickInput" onClick={() => { alert('Téléphone copié !'); }}>06 42 84 42 84</span>
+									<span className="clickInput" onClick={() => { alert('Téléphone copié !'); }}>06 99 65 87 94</span>
 								</CopyToClipboard>
 							</li>
 							<li>
 								<i className="far fa-envelope"></i>
 								<CopyToClipboard text="fromscratch.derien@gmail.com">
-									<span className="clickInput" onClick={() => { alert('E-mail copié !'); }}>fromscratch.derien@gmail.com</span>
+									<span className="clickInput" onClick={() => { alert('E-mail copié !'); }}>m27sylla@gmail.com</span>
 								</CopyToClipboard>
 							</li>
 						</ul>
 					</div>
 					<div className="socialNetwork">
 						<ul>
-							<a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+							<a href="https://www.linkedin.com/in/mamadou-sylla-dev/" target="_blank" rel="noopener noreferrer">
 								<h4>LinkedIn</h4>
 								<i className="fab fa-linkedin"></i>
 							</a>
-							<a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+							<a href="https://github.com/doums10" target="_blank" rel="noopener noreferrer">
 								<h4>Github</h4>
 								<i className="fab fa-github"></i>
 							</a>
-							<a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+							<a href="https://twitter.com/Msaymla" target="_blank" rel="noopener noreferrer">
 								<h4>Twitter</h4>
 								<i className="fab fa-twitter"></i>
 							</a>
-							<a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+							<a href="https://codepen.io/" target="_blank" rel="noopener noreferrer">
 								<h4>CodePen</h4>
 								<i className="fab fa-codepen"></i>
 							</a>

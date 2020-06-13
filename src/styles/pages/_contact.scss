@@ -1,5 +1,5 @@
 .contactContent {
-  background: $color-3;
+  background: $color-2;
   border-radius: $borderRadius;
   width: 100%;
   overflow: hidden;
@@ -25,6 +25,7 @@
       position: absolute;
       background: url(../../media/map.jpg) no-repeat center top/cover;
       filter: grayscale(100%);
+      
     }
     &:after {
       content: '';
@@ -33,6 +34,7 @@
       position: absolute;
       top: 30px;
       background: url(../../media/shape.svg) no-repeat center /cover;
+      
 
     }
   }
@@ -58,7 +60,7 @@
         content: '';
         height: 1px;
         width: 50%;
-        background: $color-1;
+        background: $color-3;
         position: absolute;
         bottom: -25px;
         left: 50%;
