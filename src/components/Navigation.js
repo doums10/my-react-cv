@@ -11,7 +11,7 @@ const Navigation = () =>
 			<div className="id">
 				<div className="idContent">
 					<img src={require('../media/meradius.jpg')} alt="profil-pic" />
-					<h3>Jean Scratch</h3>
+					<h3>Sylla Mamadou</h3>
 				</div>
 			</div>
 
@@ -47,10 +47,10 @@ const Navigation = () =>
 			<div className="socialNetwork">
 				<ul>
 					<li>
-						<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+						<a href="https://www.linkedin.com/in/mamadou-sylla-dev/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
 					</li>
 					<li>
-						<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+						<a href="https://github.com/doums10" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
 					</li>
 					<li>
 						<a href="http://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>

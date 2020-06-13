@@ -7,14 +7,14 @@ class Languages extends Component
 		languages: [
 			{ id: 1, value: "Javascript", xp: 1.8 },
 			{ id: 2, value: "Css", xp: 2 },
-			{ id: 3, value: "Php", xp: 0.7 },
-			{ id: 4, value: "Python", xp: 0.4 }
+			{ id: 3, value: "Php", xp: 1 },
+			{ id: 4, value: "Ruby", xp: 1 }
 		],
 		frameworks: [
-			{ id: 1, value: "React", xp: 1.4 },
-			{ id: 2, value: "Bootstrap", xp: 2 },
-			{ id: 3, value: "Sass", xp: 1.5 },
-			{ id: 4, value: "Material UI", xp: 0.5 },
+			{ id: 1, value: "React", xp: 1 },
+			{ id: 2, value: "Rails", xp: 1 },
+			{ id: 3, value: "Cms", xp: 1.5 },
+			{ id: 4, value: "Sass", xp: 1.5 },
 		]
 	};
 

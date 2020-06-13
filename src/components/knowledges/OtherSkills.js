@@ -8,8 +8,8 @@ const OtherSkills = () =>
 			<div className="list">
 				<ul>
 					<li><i className="fas fa-check-square"></i> Anglais courant</li>
-					<li><i className="fas fa-check-square"></i> Github</li>
-					<li><i className="fas fa-check-square"></i> SEO</li>
+					<li><i className="fas fa-check-square"></i> Github - Webpack</li>
+					<li><i className="fas fa-check-square"></i> PostgreSQL</li>
 					<li><i className="fas fa-check-square"></i> Méthodes agiles</li>
 				</ul>
 				<ul>
