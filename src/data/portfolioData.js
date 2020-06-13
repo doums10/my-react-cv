@@ -28,29 +28,30 @@ export const portfolioData = [
 	},
 	{
 		id: 4,
-		name: 'laboriosam.fr',
-		languages: ['javascript', 'php', 'react'],
-		languagesIcons: ['fab fa-js', 'fab fa-php', 'fab fa-react'],
-		source: 'http://www.github.com',
-		info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-		picture: './media/project4.JPG'
+		name: 'Holi Help',
+		languages: ['javascript', 'php'],
+		languagesIcons: ['fas fa-gem', 'fab fa-js', 'fab fa-css3-alt'],
+		source: 'https://parents-holidays-agazielly.herokuapp.com/',
+		info: 'Clone d\'airbnb réalisé en 1 semaine à l\'aide de 3 autres collaborateurs.Ce projet porte sur la location de gouvernantes pendant ses vacances et le site propose aux gouvernantes de trouver des personnes ayant besoin de leurs services.',
+		picture: require('../media/project4.jpeg')
 	},
 	{
 		id: 5,
-		name: 'repudiante.com',
+		name: 'Agence BKM',
 		languages: ['javascript', 'css'],
-		languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
+		languagesIcons: ['fab fa-html5', 'fab fa-js', 'fab fa-css3-alt'],
 		source: 'http://www.github.com',
-		info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-		picture: './media/project5.JPG'
+		info: 'Integration du site de l\'agence BKM lors d\'un stage de 4 mois.',
+		picture: require('../media/project5.jpeg')
 	},
 	{
 		id: 6,
-		name: 'test.io',
-		languages: ['javascript', 'react', 'css'],
-		languagesIcons: ['fab fa-js', 'fab fa-react', 'fab fa-css3-alt'],
-		source: 'http://www.github.com',
-		info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-		picture: './media/project6.JPG'
+		name: 'Sneakerstore',
+		languages: ['javascript', 'css'],
+		languagesIcons: ['fab fa-js', 'fab fa-php', 'fab fa-css3-alt'],
+		source: 'http://wordpress.oxydev.fr/',
+		info: 'Site ecommerce créée sur Wordpress avec le plugin WooCommerce, ajout d\'autres plugins et modification du thème de base..',
+		picture: require('../media/project6.jpeg')
 	},
+
 ]
