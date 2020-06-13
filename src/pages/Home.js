@@ -11,7 +11,7 @@ const Home = () =>
 					<h1>Jean Scratch</h1>
 					<h2>Développeur Front-end</h2>
 					<div className="pdf">
-						<a href="./media/CV.pdf" target="_blank">Télécharger CV 🇫🇷</a>
+						<a href="./media/CV-Mamadou-Sylla2019.pdf" target="_blank">Télécharger CV 🇫🇷</a>
 					</div>
 					<div className="pdf">
 						<a href="./media/Développeur front end.rtf" target="_blank">Télécharger CV 🇨🇦</a>
