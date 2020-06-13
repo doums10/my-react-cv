@@ -1,24 +1,29 @@
 {
   "files": {
-    "main.css": "/my-react-cv/static/css/main.1d8d6649.chunk.css",
-    "main.js": "/my-react-cv/static/js/main.0cf67fb3.chunk.js",
-    "main.js.map": "/my-react-cv/static/js/main.0cf67fb3.chunk.js.map",
+    "main.css": "/my-react-cv/static/css/main.2e1d007c.chunk.css",
+    "main.js": "/my-react-cv/static/js/main.da1802c3.chunk.js",
+    "main.js.map": "/my-react-cv/static/js/main.da1802c3.chunk.js.map",
     "runtime-main.js": "/my-react-cv/static/js/runtime-main.8555c64a.js",
     "runtime-main.js.map": "/my-react-cv/static/js/runtime-main.8555c64a.js.map",
-    "static/js/2.0c3a9594.chunk.js": "/my-react-cv/static/js/2.0c3a9594.chunk.js",
-    "static/js/2.0c3a9594.chunk.js.map": "/my-react-cv/static/js/2.0c3a9594.chunk.js.map",
+    "static/js/2.8431fd69.chunk.js": "/my-react-cv/static/js/2.8431fd69.chunk.js",
+    "static/js/2.8431fd69.chunk.js.map": "/my-react-cv/static/js/2.8431fd69.chunk.js.map",
     "index.html": "/my-react-cv/index.html",
-    "precache-manifest.dec5fb0f4c8e8a9915f9de57afc6673e.js": "/my-react-cv/precache-manifest.dec5fb0f4c8e8a9915f9de57afc6673e.js",
+    "precache-manifest.131e9ad73d9bd43a4846c4803f22c663.js": "/my-react-cv/precache-manifest.131e9ad73d9bd43a4846c4803f22c663.js",
     "service-worker.js": "/my-react-cv/service-worker.js",
-    "static/css/main.1d8d6649.chunk.css.map": "/my-react-cv/static/css/main.1d8d6649.chunk.css.map",
-    "static/js/2.0c3a9594.chunk.js.LICENSE.txt": "/my-react-cv/static/js/2.0c3a9594.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/my-react-cv/static/media/shape.ac995945.svg",
-    "static/media/project2.jpg": "/my-react-cv/static/media/project2.db269749.jpg"
+    "static/css/main.2e1d007c.chunk.css.map": "/my-react-cv/static/css/main.2e1d007c.chunk.css.map",
+    "static/js/2.8431fd69.chunk.js.LICENSE.txt": "/my-react-cv/static/js/2.8431fd69.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/my-react-cv/static/media/shape.67ffbfc9.svg",
+    "static/media/project1.jpeg": "/my-react-cv/static/media/project1.f5bc9608.jpeg",
+    "static/media/project2.jpg": "/my-react-cv/static/media/project2.db269749.jpg",
+    "static/media/project3.jpeg": "/my-react-cv/static/media/project3.cc73cf0d.jpeg",
+    "static/media/project4.jpeg": "/my-react-cv/static/media/project4.f20ee380.jpeg",
+    "static/media/project5.jpeg": "/my-react-cv/static/media/project5.ba4093d7.jpeg",
+    "static/media/project6.jpeg": "/my-react-cv/static/media/project6.e0d30ff0.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.8555c64a.js",
-    "static/js/2.0c3a9594.chunk.js",
-    "static/css/main.1d8d6649.chunk.css",
-    "static/js/main.0cf67fb3.chunk.js"
+    "static/js/2.8431fd69.chunk.js",
+    "static/css/main.2e1d007c.chunk.css",
+    "static/js/main.da1802c3.chunk.js"
   ]
 }
