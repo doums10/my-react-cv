@@ -11,7 +11,7 @@ const Home = () =>
           <h1>Sylla Mamadou</h1>
           <h2>Développeur Front-end</h2>
           <div className="pdf">
-            <a href="./media/CV-Mamadou-Sylla2019.pdf" target="_blank">
+            <a href="./media/CV - dev front.pdf" target="_blank">
               Télécharger CV 🇫🇷
             </a>
           </div>
